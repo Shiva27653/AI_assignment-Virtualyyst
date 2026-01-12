@@ -18,6 +18,7 @@ The overall workflow follows the steps in the flowchart below, from data ingesti
 
 ![Flowchart](flowchart.jpg)
 
+
 ### 1. Data Ingestion & EDA
 - Load `MNIST.csv` into a pandas DataFrame and inspect the total number of samples.  
 - Check class distribution and verify there are no missing values.  
