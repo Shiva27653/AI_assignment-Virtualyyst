@@ -80,6 +80,6 @@ These accuracies come from the 80/20 train–test split defined in the notebook.
 ```text
 .
 ├── AI_assignment-Virutalyyst_ShivaSukumar.ipynb  
-├── flowchart.jpg                                 
+├── flowchart.png                                
 ├── requirements.txt                              
 └── README.md     
