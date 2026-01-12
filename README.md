@@ -16,7 +16,7 @@ This repository contains an end‑to‑end handwritten digit recognition pipelin
 
 The overall workflow follows the steps in the flowchart below, from data ingestion to final evaluation and reporting.
 
-![Flowchart](flowchart.jpg)
+![Flowchart](flowchart.png)
 
 
 ### 1. Data Ingestion & EDA
