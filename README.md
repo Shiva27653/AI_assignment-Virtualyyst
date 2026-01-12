@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition – Classical ML Pipeline
 
-This repository contains an end‑to‑end handwritten digit recognition pipeline using classical machine learning algorithms (KNN, SVM, Decision Tree, custom KNN from scratch, Voting Ensemble, and PCA). The core implementation is in a single Jupyter notebook: `AI_assignment-Virutalyyst_ShivaSukumar.ipynb`.
+This repository contains an end‑to‑end handwritten digit recognition pipeline using classical machine learning algorithms (KNN, SVM, Decision Tree, custom KNN from scratch, Voting Ensemble, and PCA). The core implementation is in a single Jupyter notebook: `AI_assignment-Virtualyyst_ShivaSukumar.ipynb`.
 
 ---
 
@@ -77,3 +77,9 @@ These accuracies come from the 80/20 train–test split defined in the notebook.
 - Decision Tree performance is lower (~86%) due to its sensitivity to small spatial variations in the digit images.  
 - Misclassifications mostly occur between visually similar digits like 3 vs 8 and 4 vs 9.
 
+```text
+.
+├── AI_assignment-Virutalyyst_ShivaSukumar.ipynb  
+├── flowchart.jpg                                 
+├── requirements.txt                              
+└── README.md     
